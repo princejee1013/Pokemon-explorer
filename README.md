@@ -27,7 +27,7 @@ A visually engaging, fast-loading Pokémon Explorer web app built with **Next.js
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/pokemon-explorer.git
+git clone https://github.com/princejee1013/Pokemon-explorer.git
 cd pokemon-explorer
 
 # Install dependencies
